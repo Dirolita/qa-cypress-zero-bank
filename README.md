@@ -50,28 +50,6 @@ This repository is designed to be easily reviewed by **QA Leads, Technical Inter
 
 ---
 
-## 📁 Project Structure
-
-```
-QA-CYPRESS-ZERO-BANK
-│
-├── cypress/
-│   └── e2e/
-│       ├── login_smoke.cy.js
-│       ├── login_happy_path.cy.js
-│       └── login_negative.cy.js
-│
-├── docs/
-│   ├── user_stories.md
-│   ├── acceptance_criteria.md
-│   └── test_scenarios.md
-│
-├── README.md
-├── package.json
-└── package-lock.json
-```
-
----
 
 ## 🚀 How to Run the Tests
 
@@ -130,3 +108,4 @@ This is a demo application. No real financial data is used.
 ---
 
 ⭐ *Feedback and suggestions are welcome.*
+
